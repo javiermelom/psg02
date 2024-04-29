@@ -53,3 +53,8 @@ Codigo `Code`
 Imagenes
 
 ![Javier](./fotoperfil.jpg)
+
+cuando utilizo git log se listan los cambios pero en la terminal no se ve manera de salir,
+entonces con las flechas nos desplazamos hasta la parte final donde aparezca [END] y oprimimos la tecla Q
+
+git remote -v listamos las url de los repositorios remotos
