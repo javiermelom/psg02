@@ -55,6 +55,8 @@ Imagenes
 ![Javier](./fotoperfil.jpg)
 
 cuando utilizo git log se listan los cambios pero en la terminal no se ve manera de salir,
-entonces con las flechas nos desplazamos hasta la parte final donde aparezca [END] y oprimimos la tecla Q
+entonces con las flechas nos desplazamos hasta la parte final donde aparezca [END] y oprimimos la tecla Q.
+
+anteriormente se hizo push visualemnte sin ningun error, ahora probamos en la terminal hacer push.
 
 git remote -v listamos las url de los repositorios remotos
