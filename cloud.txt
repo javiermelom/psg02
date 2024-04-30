@@ -1,1 +1,3 @@
 Lorem Ipsum
+Esta es una prueba para hacer actualizacion con git pull desde nuestro pc o carpeta local y tambien añadiendo algunos cambios en nuestro repo local 
+saber si al momento de hacer pull se eliminan los cambios locales o los conserva
