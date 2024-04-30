@@ -60,3 +60,5 @@ entonces con las flechas nos desplazamos hasta la parte final donde aparezca [EN
 anteriormente se hizo push visualemnte sin ningun error, ahora probamos en la terminal hacer push.
 
 git remote -v listamos las url de los repositorios remotos
+
+Insertando cambios para verificar el git pull

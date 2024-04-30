@@ -1,0 +1,2 @@
+Segunda prueba haciend ocambios locales en el repo pero se realizaron anteriormente unos cambios de manera remota
+en el repo en github, primero se hara el git pull y luego se verificara si son el git pull se mantienen los cambiosen el repo local o los desecha
