@@ -1,2 +1,1 @@
 Lorem Ipsum
-Esta seria otra prueba del repo local versus repo remoto
